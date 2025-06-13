@@ -1,4 +1,4 @@
-# Nimse-Farm-<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -12,7 +12,7 @@
       color: #333;
     }
     header {
-      background-image: url('file-QwF731sZHTg5BYrHHAFV23'); /* Update with correct path */
+      background-image: url('grapes.jpg'); /* Header background image */
       background-size: cover;
       background-position: center;
       height: 90vh;
@@ -69,7 +69,7 @@
   <section class="about">
     <h2>About Our Farm</h2>
     <div class="about-content">
-      <img src="file-4pLiZLXvVaW3Pehb3jkXCR" alt="Farm Owner" />
+      <img src="owner.jpg" alt="Farm Owner" />
       <div>
         <p><strong>Owner:</strong> Amit Ravindra Nimse</p>
         <p><strong>Location:</strong> Dindori, Taluka Niphad, District Nashik</p>
@@ -80,9 +80,9 @@
 
   <section class="gallery">
     <h2>Our Grapes</h2>
-    <img src="file-QwF731sZHTg5BYrHHAFV23" alt="Grape Image 1" />
-    <img src="file-EXAMPLE2" alt="Grape Image 2" />
-    <img src="file-EXAMPLE3" alt="Grape Image 3" />
+    <img src="grapes.jpg" alt="Grapes" />
+    <img src="harvest1.jpg" alt="Harvesting" />
+    <img src="harvest2.jpg" alt="Packed Grapes" />
   </section>
 
   <section class="contact">
